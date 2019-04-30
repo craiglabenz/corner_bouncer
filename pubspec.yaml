@@ -1,0 +1,22 @@
+name: corner_bouncer
+description: A simple Flutter widget that bounces around the boundaries of its container, ala that classic DVD menu icon
+version: 0.0.1-beta
+author: Craig Labenz <craig.labenz@gmail.com>
+homepage: https://github.com/craiglabenz/corner_bouncer
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
